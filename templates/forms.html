@@ -1,0 +1,20 @@
+<!-- Se cargan plantillas con doble llave -->
+<!-- .as_p = asignar q es un formulario -->
+<!-- post = registrar get = ver-->
+<!-- csrf_token = proteccion/ seguridad contra falsificacion de peticiones-->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Inicio</title>
+	<link rel="stylesheet" href="">
+</head>
+<body>
+	<form method="POST" action="">{% csrf_token %}
+		{{ form.as_p }}
+		<input type="submit" value="Enviar" />
+	</form>
+
+</body>
+</html>

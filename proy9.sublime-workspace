@@ -1,0 +1,904 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"met",
+				"method\tAttr"
+			],
+			[
+				"Entra",
+				"EntradaAdmin"
+			],
+			[
+				"Entrada",
+				"EntradaQuerySet"
+			],
+			[
+				"mard",
+				"markdown"
+			],
+			[
+				"slug",
+				"slugify"
+			],
+			[
+				"Soli",
+				"SolicitudCreate"
+			],
+			[
+				"Sol",
+				"SolicitudCreate"
+			],
+			[
+				"mascota",
+				"mascota_list.html"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"m",
+				"max_length"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"rout",
+				"router_index"
+			],
+			[
+				"doc",
+				"documentos"
+			],
+			[
+				"Doc",
+				"documentos"
+			],
+			[
+				"sess",
+				"session_middleware"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"que",
+				"queries"
+			],
+			[
+				"re",
+				"res"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"dis",
+				"display_inline_block"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"fi",
+				"findOne"
+			],
+			[
+				"ses",
+				"sess"
+			],
+			[
+				"text",
+				"text_align_rightI"
+			],
+			[
+				"img",
+				"img_container"
+			],
+			[
+				"do",
+				"documento"
+			],
+			[
+				"ne",
+				"name"
+			],
+			[
+				"docu",
+				"documento"
+			],
+			[
+				"d",
+				"documento"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"inp",
+				"inputUpload"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"border-rad",
+				"border-radius"
+			],
+			[
+				"tex",
+				"text_transparent"
+			],
+			[
+				"text_",
+				"text_align_right"
+			],
+			[
+				"text-",
+				"text-anchor"
+			],
+			[
+				"ty",
+				"typeof"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"D",
+				"Documento"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"document",
+				"document_finder_middleware"
+			],
+			[
+				"red",
+				"redirect"
+			],
+			[
+				"DOCU",
+				"documento"
+			],
+			[
+				"metho",
+				"methodOverride"
+			],
+			[
+				"rede",
+				"render"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"icon",
+				"icon25"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"s",
+				"Schema"
+			],
+			[
+				"rec",
+				"redirect"
+			],
+			[
+				"login",
+				"login_box_section"
+			],
+			[
+				"pass",
+				"password_validation"
+			],
+			[
+				"email",
+				"email_match"
+			],
+			[
+				"user",
+				"user_schema"
+			],
+			[
+				"mongo",
+				"mongoose"
+			],
+			[
+				"bo",
+				"bodyParser"
+			],
+			[
+				"bod",
+				"bodyParser"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"bloc",
+				"block"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border-bott",
+				"border-bottom-left-radius"
+			],
+			[
+				"tal",
+				"table-cell"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"marti",
+				"margin-right"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"inline",
+				"inline-flex"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"alig",
+				"align-self"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "templates/forms.html",
+			"settings":
+			{
+				"buffer_size": 515,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "portafolio/views.py",
+			"settings":
+			{
+				"buffer_size": 1552,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pro9/settings.py",
+			"settings":
+			{
+				"buffer_size": 3390,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "portafolio/forms.py",
+			"settings":
+			{
+				"buffer_size": 805,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/inicio.html",
+			"settings":
+			{
+				"buffer_size": 672,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 217.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/proyecto9/pro9",
+		"/C/proyecto9/pro9/portafolio",
+		"/C/proyecto9/pro9/pro9",
+		"/C/proyecto9/pro9/templates"
+	],
+	"file_history":
+	[
+		"/C/proyecto9/pro9/pro9/urls.py",
+		"/C/proyecto9/pro9/portafolio/admin.py",
+		"/C/proyecto9/pro9/portafolio/forms.py",
+		"/C/proyecto9/pro9/crud.md",
+		"/C/proyecto9/pro9/templates/inicio.html",
+		"/C/proyecto9/pro9/portafolio/views.py",
+		"/C/proyecto9/pro9/pro9/settings.py",
+		"/C/proyecto9/pro9/portafolio/models.py",
+		"/C/proyecto9/portafolio/admin.py",
+		"/C/proyecto9/portafolio/models.py",
+		"/C/proyecto9/proyecto9/settings.py",
+		"/C/proyecto9/portafolio/migrations/0001_initial.py",
+		"/C/proyecto9/portafolio/migrations/0002_auto_20171117_0510.py",
+		"/C/proyecto9/proyecto9/urls.py",
+		"/C/envs/test01/Lib/site-packages/django_markdown/urls.py",
+		"/C/Users/userpc/Downloads/Compressed/curso_django_codigofacilito-master/templates/usuario/registrar.html",
+		"/C/DEV/project_django/refugio/apps/adopcion/urls.py",
+		"/C/DEV/project_django/refugio/apps/adopcion/forms.py",
+		"/C/DEV/project_django/refugio/templates/adopcion/solicitud_form.html",
+		"/C/DEV/project_django/refugio/apps/adopcion/views.py",
+		"/C/DEV/project_django/refugio/apps/mascota/models.py",
+		"/C/DEV/project_django/refugio/apps/adopcion/models.py",
+		"/C/DEV/project_django/refugio/refugio/urls.py",
+		"/C/DEV/project_django/refugio/templates/adopcion/solicitud_delete.html",
+		"/C/DEV/project_django/refugio/templates/adopcion/solicitud_list.html",
+		"/C/DEV/project_django/refugio/templates/adopcion/solicitud_edit.html",
+		"/C/DEV/project_django/refugio/templates/mascota/mascota_list.html",
+		"/C/DEV/project_django/refugio/apps/mascota/urls.py",
+		"/C/DEV/project_django/refugio/apps/mascota/views.py",
+		"/C/DEV/project_django/refugio/templates/mascota/mascota_delete.html",
+		"/C/DEV/project_django/refugio/templates/mascota/index.html",
+		"/C/DEV/project_django/refugio/templates/base/base.html",
+		"/C/DEV/project_django/refugio/templates/mascota/mascota_edit.html",
+		"/C/DEV/project_django/refugio/templates/mascota/mascota_form.html",
+		"/C/DEV/project_django/refugio/apps/mascota/forms.py",
+		"/C/DEV/project_django/refugio/static/css/bootstrap.min.css",
+		"/C/DEV/project_django/refugio/refugio/settings.py",
+		"/C/DEV/project_django/refugio/templates/base/header.html",
+		"/C/DEV/project_django/refugio/apps/__init__.py",
+		"/C/DEV/project_django/refugio/apps/adopcion/admin.py",
+		"/C/DEV/project_django/refugio/apps/mascota/admin.py",
+		"/C/AstroTeleCableApp/views/contacts.pug",
+		"/C/AstroTeleCableApp/views/login.pug",
+		"/C/AstroTeleCableApp/public/Stylesheet.css",
+		"/C/AstroTeleCableApp/views/queries.pug",
+		"/C/AstroTeleCableApp/index.html",
+		"/C/Users/userpc/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/C/Users/userpc/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/AstroTeleCableApp/routes_index.js",
+		"/C/AstroTeleCableApp/middlewares/find_document.js",
+		"/C/AstroTeleCableApp/middlewares/document_permission.js",
+		"/C/AstroTeleCableApp/routes_app.js",
+		"/C/TeleCable/models/publicaciones.js",
+		"/C/TeleCable/views/index.pug",
+		"/C/TeleCable/views/login.pug",
+		"/C/TeleCable/views/queries.pug",
+		"/C/TeleCable/views/app/home.pug",
+		"/C/TeleCable/views/app/documentos/index.pug",
+		"/C/TeleCable/views/app/documentos/show.pug",
+		"/C/TeleCable/views/app/documentos/new.pug",
+		"/C/TeleCable/views/app/documentos/edit.pug",
+		"/C/TeleCable/views/signup.pug",
+		"/C/TeleCable/views/about.pug",
+		"/C/TeleCable/views/contacts.pug",
+		"/C/TeleCable/views/services.pug",
+		"/C/TeleCable/app.js",
+		"/C/TeleCable/routes_app.js",
+		"/C/TeleCable/views/layout.pug",
+		"/C/TeleCable/public/Stylesheet.css",
+		"/C/TeleCable/models/documentos.js",
+		"/C/TeleCable/views/app/documentos/logo1.jpg",
+		"/C/TeleCable/package.json",
+		"/C/TeleCable/middlewares/find_document.js",
+		"/C/TeleCable/middlewares/document_permission.js",
+		"/C/TeleCable/models/user.js",
+		"/C/TeleCable/middlewares/session.js",
+		"/C/TeleCable/views/routes_app.js",
+		"/C/TeleCable/views/documentos/new.pug",
+		"/C/TeleCable/routing/views/index.pug",
+		"/C/TeleCable/routing/app.js",
+		"/C/xampp/htdocs/TeleCable/index.html",
+		"/C/xampp/htdocs/TeleCable/Assets/Stylesheet.css",
+		"/E/TeleCable_App/Site.master",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/reserva.html",
+		"/C/xampp/php/php.ini",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/sobre_nosotros.html",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/services.html",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/opiniones.html",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/ofertas.html",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/donde_estamos.html",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/Index.html",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/assets/style.css",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/assets/js/style.css",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/assets/css/kendo.material.css",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/assets/css/kendo.common.min.css",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/assets/js/kendo.all.min.js",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/lnr-star.svg",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/assets/css/kendo.common-material.css",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/assets/css/kendo.rtl.css",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/assets/js/kendo-dojo.js",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/assets/js/main.js",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/style.css",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/assets/main.js",
+		"/C/Users/userpc/Documents/WEB_DESIGN/LUXURY/style",
+		"/C/Users/userpc/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "templates/forms.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								485,
+								485
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 178.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "portafolio/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1377,
+								1377
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pro9/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								982,
+								982
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "portafolio/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								637,
+								637
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "templates/inicio.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 672,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								672
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proy9.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 164.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
